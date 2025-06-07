@@ -9,10 +9,30 @@ ORG USERNAME - rajithareddy91455233@agentforce.com
 PASSWORD - Gayatri@123
 
 STUDENT ID -
-STUDENT NAME - 
+STUDENT NAME - SHAIK ALLMAS 
 GROUP - B.Com (COMPUTER APPLICATIONS)
 LEARNING TRACK - SALESFORCE - DEVELOPER
-TRAILHEAD PROFILE -
+TRAILHEAD PROFILE -https://www.salesforce.com/trailblazer/qlhu3hjk7qpgaws01h
+
+PROJECT NAME - A CRM Application For Public Transport Management System
+ORG USERNAME - 
+PASSWORD - Gayatri@123
+
+STUDENT ID -
+STUDENT NAME - CHINTHAMAKULA VAISHNAVI
+GROUP - B.Com (COMPUTER APPLICATIONS)
+LEARNING TRACK - SALESFORCE - DEVELOPER
+TRAILHEAD PROFILE - https://www.salesforce.com/trailblazer/qlhu3hjk7qpgaws01h
+
+PROJECT NAME - A CRM Application For Public Transport Management System
+ORG USERNAME - 
+PASSWORD - Gayatri@123
+
+STUDENT ID -
+STUDENT NAME - KONETI SRAVANTHI
+GROUP - B.Com (COMPUTER APPLICATIONS)
+LEARNING TRACK - SALESFORCE - DEVELOPER
+TRAILHEAD PROFILE -https://www.salesforce.com/trailblazer/k2h6jg76gfnajm2z3g
 
 PROJECT NAME - A CRM Application For Public Transport Management System
 ORG USERNAME - 
