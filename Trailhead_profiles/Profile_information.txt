@@ -6,7 +6,7 @@ TRAILHEAD PROFILE - https://www.salesforce.com/trailblazer/fwbv0bdgeruc2dpneo
 
 PROJECT NAME - A CRM Application For Public Transport Management System
 ORG USERNAME - rajithareddy91455233@agentforce.com
-PASSWORD - Gayatri@123
+PASSWORD - rajitha@123
 
 STUDENT ID - SBAP0029704
 STUDENT NAME - SHAIK ALLMAS 
